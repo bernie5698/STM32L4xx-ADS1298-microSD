@@ -1,3 +1,3 @@
-# Result
+## Result
 - Plot with Matlab
-![SBvsJWvsMe_HPF10](https://github.com/user-attachments/assets/a6b67bd8-5201-41a3-a7dc-71782ba9d531)
+<img width="1071" alt="image" src="https://github.com/user-attachments/assets/701623ce-b7e9-4751-9cf5-1b25b5b277b5" />
